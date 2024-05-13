@@ -10,3 +10,6 @@
 - Optimize the model initially through the Adam framework then SGD, followed by an Adam Decay and then SGD Decay Framework 
 - Run KLD and DICE loss functions separately
 - Measure accuracy and efficiency at each step and do comparisons to understand differences
+
+# Contribution:
+- Each of us made valuable contributions to this process. Emma was responsible for bringing and processing data, Yuna conducted experiments on the model, and Hammad was responsible for bringing different elements together.
